@@ -13,4 +13,7 @@ python2 Sp33d
 [![Coverage](https://img.shields.io/azure-devops/coverage/Swellaby/Opensource/25?color=%23FFFF33&style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
 
 [![Maintainers](https://img.shields.io/badge/mainteiners-HackBoyz-mintgreen.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
+
+[![coded](https://img.shields.io/badge/coded%in-python-red.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
+
  
