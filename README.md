@@ -14,6 +14,7 @@ python2 Sp33d
 
 [![Maintainers](https://img.shields.io/badge/mainteiners-HackBoyz-mintgreen.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
 
-[![coded](https://img.shields.io/badge/coded%20in-python-cyan.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
+[![coded](https://img.shields.io/badge/coded%20in-python2.7-cyan.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
 
- 
+[![Test](https://img.shields.io/badge/tested%20on-.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
+
