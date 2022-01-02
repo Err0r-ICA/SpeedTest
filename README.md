@@ -6,4 +6,4 @@ pkg update -y;pkg upgrade -y;git clone https://github.com/Err0r-ICA/SpeedTest;cd
 python2 Sp33d
 ```
 
-https://img.shields.io/github/downloads/Err0r-ICA/SpeedTest/total
+
