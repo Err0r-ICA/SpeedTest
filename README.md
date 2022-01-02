@@ -8,3 +8,4 @@ python2 Sp33d
 
 [![Build-passing](https://img.shields.io/badge/build-passing-brightgreen.svg?style=round)](https://github.com/Err0r-ICA/SpeedTest/issues)
 
+https://img.shields.io/open-vsx/stars/Redhat/Java
