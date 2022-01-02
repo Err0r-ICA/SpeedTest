@@ -11,7 +11,7 @@ python2 Sp33d
 SpeedTest works with Python 2.4-3.7
 
 .. image:: https://img.shields.io/pypi/pyversions/speedtest-cli.svg
-        :target: https://pypi.python.org/pypi/speedtest-cli/
+        :target: https://pypi.python.org/pypi/SpeedTest/
         :alt: Versions
 
 .. image:: https://img.shields.io/pypi/v/speedtest-cli.svg
