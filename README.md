@@ -11,3 +11,6 @@ python2 Sp33d
 [![Stars](https://img.shields.io/open-vsx/stars/Redhat/Java.svg?style=plastic&color=%23FFA500)](https://github.com/Err0r-ICA/SpeedTest/issues)
 
 [![Coverage](https://img.shields.io/azure-devops/coverage/Swellaby/Opensource/25?color=%23FFFF33&style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
+
+[![Maintainers](https://img.shields.io/badge/mainteiners-HackBoyz-mintgreen.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
+ 
