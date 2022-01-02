@@ -20,4 +20,4 @@ python2 Sp33d
 
 [![Status](https://img.shields.io/badge/code%20status-encrypted-blueviolet.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
 
-[![Maintainers](https://img.shields.io/badge/maintainers-HackBoyz-%23ff69b4.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
+[![License](https://img.shields.io/badge/license-MIT-%23ff69b4.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
