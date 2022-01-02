@@ -16,5 +16,5 @@ python2 Sp33d
 
 [![coded](https://img.shields.io/badge/coded%20in-python2.7-mintgreen.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
 
-[![Test](https://img.shields.io/badge/tested%20on-termux,kali%20linux-cyan.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
+[![Test](https://img.shields.io/badge/tested%20on-Termux,%20Kali%20Linux,%20NetHunter%20Ubuntu,%20Parrot%20OS,%20Debian,%20Arch%20Linux,%20Fedora,%20ANDRAX%20Mobile-cyan.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
 
